@@ -124,4 +124,8 @@ GitHub Repository: [FarmEkoX](https://github.com/ArunkumarK572/FarmEkoX)
 5. Ministry of Agriculture and Farmers Welfare, Government of India, “National Agriculture Market (e-NAM),” [Online]. Available: https://www.enam.gov.in
 
 ---
+For contact details:
+naveennaveen83946@gmail.com
+arunkurubajeans@gmail.com
+avinashnag2002@gamil.com
 
