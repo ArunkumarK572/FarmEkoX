@@ -14,9 +14,9 @@ Course: CSE Capstone Project
 Department: Computer Science & Engineering
 
 Submitted By:  
-- Naveen M     – 20221CSG0153
-- Avinash N    – 20221LCG0004
-- Arun Kumar K - 20221LCG0005
+- Naveen M     – 20221CSG0153 – GitHub: [@naveen8618](https://github.com/naveen8618)
+- Avinash N    – 20221LCG0004 – GitHub: [@avinash098765](https://github.com/avinash098765)
+- Arun Kumar K - 20221LCG0005 – GitHub: [@ArunkumarK572](https://github.com/ArunkumarK572)
 
 Under the Supervision of:  
 - Ms. Shet Reshma Prakash 
@@ -27,12 +27,12 @@ Academic Year: 2025–26
 ---
 
 ## Project Overview
-Small and marginal farmers often rely on traditional practices or local advice for crop selection, pest control, and fertilizer use. This leads to suboptimal yields, higher input costs, and environmental harm. The Smart Crop Advisory System (FarmEkoX) provides a unified, mobile-first solution delivering personalized, localized, and accessible crop advisory services using real-time data, rule-based logic, and AI-driven assistance in local languages.
+Small and marginal farmers often rely on traditional practices or local advice for crop selection, pest control, and fertilizer use. This leads to suboptimal yields, higher input costs, and environmen[...] 
 
 ---
 
 ## Problem Statement
-Many small and marginal farmers lack access to personalized, real-time advisory services that account for soil type, weather, and crop history. Barriers include language, low digital literacy, and the absence of localized tools. This leads to poor yields, overuse of chemicals, and higher costs.
+Many small and marginal farmers lack access to personalized, real-time advisory services that account for soil type, weather, and crop history. Barriers include language, low digital literacy, and the[...] 
 
 Problem Statement Number: SIH25010  
 Domain: Agriculture, FoodTech & Rural Development  
@@ -112,9 +112,7 @@ Workflow:
 GitHub Repository: [FarmEkoX](https://github.com/ArunkumarK572/FarmEkoX)
 
 
-
 ---
-
 
 ## References
 1. A. Wolfert, L. Ge, C. Verdouw, and M.-J. Bogaardt, “Big data in smart farming – A review,” Agricultural Systems, vol. 153, pp. 69–80, May 2017.  
@@ -124,8 +122,8 @@ GitHub Repository: [FarmEkoX](https://github.com/ArunkumarK572/FarmEkoX)
 5. Ministry of Agriculture and Farmers Welfare, Government of India, “National Agriculture Market (e-NAM),” [Online]. Available: https://www.enam.gov.in
 
 ---
+
 For contact details:
 naveennaveen83946@gmail.com
 arunkurubajeans@gmail.com
 avinashnag2002@gamil.com
-
