@@ -1,5 +1,6 @@
 # Smart Crop Advisory System for Small and Marginal Farmers
 Problem Statement Number: SIH25010
+Batch No : CSG_42
 
 Domain: Agriculture, FoodTech & Rural Development  
 Mapped SDG: SDG 2 – Zero Hunger  
@@ -13,11 +14,12 @@ Course: CSE Capstone Project
 Department: Computer Science & Engineering
 
 Submitted By:  
-- Student Name 1 – Roll No  
-- Student Name 2 – Roll No
+- Naveen M     – 20221CSG0153
+- Avinash N    – 20221LCG0004
+- Arun Kumar K - 20221LCG0005
 
 Under the Supervision of:  
-- Guide Name
+- Ms. Shet Reshma Prakash 
 
 Institution Name  
 Academic Year: 2025–26
@@ -109,33 +111,10 @@ Workflow:
 ## Repository & Demo
 GitHub Repository: [FarmEkoX](https://github.com/ArunkumarK572/FarmEkoX)
 
-(Insert app screenshots, timeline image, and Gantt chart in the repo when available — see /docs or /assets)
+
 
 ---
 
-## Timeline & Gantt
-- Timeline and Gantt chart images to be added in /docs or /assets.  
-- Example phases: Requirements → Design → Implementation → Testing → Deployment → Evaluation.
-
----
-
-## How to Run (Developer notes)
-1. Clone the repository: `git clone https://github.com/ArunkumarK572/FarmEkoX.git`  
-2. Follow platform-specific instructions (React Native / Flutter) in the repo's docs once the frontend is added.  
-3. Configure backend (Node.js) and database (MongoDB) connection strings in environment variables.  
-4. Obtain API keys for weather, news, and any third-party services used.  
-5. For barcode and voice features, enable camera and microphone permissions on the device.
-
-(Expand this section with concrete commands and env examples when codebase modules are added.)
-
----
-
-## Contributors
-- Student Name 1 – Roll No  
-- Student Name 2 – Roll No  
-Under the supervision of Guide Name
-
----
 
 ## References
 1. A. Wolfert, L. Ge, C. Verdouw, and M.-J. Bogaardt, “Big data in smart farming – A review,” Agricultural Systems, vol. 153, pp. 69–80, May 2017.  
@@ -146,5 +125,3 @@ Under the supervision of Guide Name
 
 ---
 
-## License
-(Choose and add appropriate license file, e.g., MIT / CC BY. Add LICENSE in repo).
