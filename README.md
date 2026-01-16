@@ -111,6 +111,7 @@ Workflow:
 ## Repository & Demo
 GitHub Repository: [FarmEkoX](https://github.com/ArunkumarK572/FarmEkoX)
 
+Project Documents (Google Drive): https://drive.google.com/drive/folders/18NU9-8El1Yb7ThKyc9USSxV0CGhl1X7K
 
 ---
 
